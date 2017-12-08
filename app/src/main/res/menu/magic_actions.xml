@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/has_show_from_uk"
+        android:title="Has show from UK" />
+
+    <item
+        android:id="@+id/number_of_shows_with_rating_above_8_5"
+        android:title="Get number of shows with rating above 8.5" />
+
+    <item
+        android:id="@+id/all_shows_have_rating_above_7_7"
+        android:title="All shows have rating above 7.7" />
+
+    <item
+        android:id="@+id/get_total_episodes_count"
+        android:title="get Total Episodes Count" />
+
+    <item
+        android:id="@+id/get_first_4_episodes_count"
+        android:title="get First 4 Episodes Count" />
+
+    <item
+        android:id="@+id/get_highest_rating_show"
+        android:title="get Highest Rating Show" />
+
+    <item
+        android:id="@+id/get_show_with_most_episodes"
+        android:title="get Show With Most Episodes" />
+
+    <item
+        android:id="@+id/no_show_from_portugal"
+        android:title="has No Show From Portugal" />
+
+    <item
+        android:id="@+id/average_show_rating"
+        android:title="average Show Rating" />
+
+    <item
+        android:id="@+id/get_shows_above_9_rating"
+        android:title="get Shows Above 9 rating" />
+
+    <item
+        android:id="@+id/get_shows_at_position_1_3_6"
+        android:title="get Shows At Position 1 3 6" />
+
+    <item
+        android:id="@+id/get_all_episodes"
+        android:title="get All Episodes" />
+
+    <item
+        android:id="@+id/get_status_in_upper_case"
+        android:title="get Status In Upper Case" />
+
+    <item
+        android:id="@+id/group_shows_by_network"
+        android:title="group Shows By Network" />
+
+    <item
+        android:id="@+id/split_by_status"
+        android:title="split_by_status" />
+
+</menu>

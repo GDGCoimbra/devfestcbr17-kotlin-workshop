@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="xyz.gdgcoimbra.devfest2017.kotlinfest">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".KotlinFestApplication"
         android:allowBackup="true"
